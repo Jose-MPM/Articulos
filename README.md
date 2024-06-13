@@ -3,7 +3,7 @@
 # Infografías de la Ciberseguridad
 
 <a href="#infografia1"><img src="img/DatosPersonalyRS.jpg" alt="Infografía de los datos y las redes sociales" width="200"/></a>
-<a href="#infografia2"><img src="img/Info%20Cibersecurity.png" alt="Infografía de la importancia de la ciberseguridad" width="200"/></a>
+<a href="#infografia2"><img src="img/Info%20Cibersecurity.png" alt="Infografía de la importancia de la ciberseguridad" width="300"/></a>
 
 ## Creación de Contenido Educativo sobre Ciberseguridad
 
