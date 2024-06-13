@@ -1,14 +1,16 @@
 # Contenido Web
 
 * He hecho 2 escritos y 2 infografías sobre la ciberseguridad, el topico central que me gustaría divulgar, he tomado un seminario de divulgación científica.
-	1. La importancia de la ciberseguridad: [Ver PDF en Google Drive](https://docs.google.com/document/d/1_Zs00owgf2LBnylqP54s6Rcx-XKoGuwM9s43v2J394U/edit?usp=sharing)
-		-  ![Infografía correspondiente:](img/Info%20Cibersecurity.png)
-	2. Los datos y las redes sociales.
-		- Infografía correspondiente:	
+
+	1. **Los datos y las redes sociales**: [Ver PDF en Google Drive](https://docs.google.com/document/d/10DyenawPkvvWHt3waOYHon-YulO3cR84jjAHlTgjZhM/edit?usp=sharing)
+		- **Infografía de los datos y las redes sociales**: 
+		![Infografía de la importancia de la ciberseguridad:](img/DatosPersonalesyRS.jpg)
+
+	2. **La importancia de la ciberseguridad**: [Ver PDF en Google Drive](https://docs.google.com/document/d/1_Zs00owgf2LBnylqP54s6Rcx-XKoGuwM9s43v2J394U/edit?usp=sharing)
+		- **Infografía de la importancia de la ciberseguridad**: 
+		![Infografía de la importancia de la ciberseguridad:](img/Info%20Cibersecurity.png)
 
 ## La importancia de la ciberseguridad.
-
-* [Ver PDF sobre la importancia de la ciberseguridad](La%20importancia%20de%20la%20ciberseguridad.pdf)
 
 ### ¿Por qué el creador del face tapa su webcam? ¿Alguien nos vigila? México, el país #13 más ciberatacado en el mundo, la importancia de la ciberseguridad
 
