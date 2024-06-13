@@ -1,10 +1,25 @@
-# Contenido Web
+# Contenido Web - Proyecto de Divulgación en Ciberseguridad
 
-* He hecho 2 escritos y 2 infografías sobre la ciberseguridad, el topico central que me gustaría divulgar, he tomado un seminario de divulgación científica.
+## Creación de Contenido Educativo sobre Ciberseguridad
 
+- **Desarrollé y publiqué dos artículos y dos infografías sobre la importancia de la ciberseguridad**.
+	- Los artículos cubrieron temas como "Los datos y las redes sociales" y "La importancia de la ciberseguridad".
+	- Las infografías proporcionaron visualizaciones atractivas y accesibles para los lectores, facilitando la comprensión de temas complejos.
+
+- **Tecnologías y Herramientas Utilizadas:**
+	- Canva como herramientas de diseño gráfico para crear infografías
+	- Markdown para documentación
+	- Git y GitHub para control de versiones y publicación
+	- Google Drive para compartir documentos
+
+- **Resultados e Impacto:**
+	- **Utilicé este proyecto como una forma de aplicar y demostrar mis conocimientos en ciberseguridad, mejorando mis habilidades en la divulgación científica y la comunicación técnica**.
+	- Compartí el contenido a través de plataformas como GitHub y Google Drive, recibiendo comentarios positivos y retroalimentación constructiva, pronto estarán en mi IG.
+
+* **Estructura**.
 	1. **Los datos y las redes sociales**: [Ver PDF en Google Drive](https://docs.google.com/document/d/10DyenawPkvvWHt3waOYHon-YulO3cR84jjAHlTgjZhM/edit?usp=sharing)
 		- **Infografía de los datos y las redes sociales**: 
-		![Infografía de la importancia de la ciberseguridad:](img/DatosPersonalesyRS.jpg)
+		![Infografía de la importancia de la ciberseguridad:](img/DatosPersonalyRS.jpgs.jpg)
 
 	2. **La importancia de la ciberseguridad**: [Ver PDF en Google Drive](https://docs.google.com/document/d/1_Zs00owgf2LBnylqP54s6Rcx-XKoGuwM9s43v2J394U/edit?usp=sharing)
 		- **Infografía de la importancia de la ciberseguridad**: 
