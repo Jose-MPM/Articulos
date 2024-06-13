@@ -1,5 +1,10 @@
 # Contenido Web - Proyecto de Divulgación en Ciberseguridad
 
+# Infografías de la Ciberseguridad
+
+<a href="#infografia1"><img src="img/DatosPersonalyRS.jpg" alt="Infografía de los datos y las redes sociales" width="200"/></a>
+<a href="#infografia2"><img src="img/Info%20Cibersecurity.png" alt="Infografía de la importancia de la ciberseguridad" width="200"/></a>
+
 ## Creación de Contenido Educativo sobre Ciberseguridad
 
 - **Desarrollé y publiqué dos artículos y dos infografías sobre la importancia de la ciberseguridad**.
@@ -19,7 +24,7 @@
 * **Estructura**.
 	1. **Los datos y las redes sociales**: [Ver PDF en Google Drive](https://docs.google.com/document/d/10DyenawPkvvWHt3waOYHon-YulO3cR84jjAHlTgjZhM/edit?usp=sharing)
 		- **Infografía de los datos y las redes sociales**: 
-		![Infografía de la importancia de la ciberseguridad:](img/DatosPersonalyRS.jpgs.jpg)
+		![Infografía de la importancia de la ciberseguridad:](img/DatosPersonalyRS.jpg)
 
 	2. **La importancia de la ciberseguridad**: [Ver PDF en Google Drive](https://docs.google.com/document/d/1_Zs00owgf2LBnylqP54s6Rcx-XKoGuwM9s43v2J394U/edit?usp=sharing)
 		- **Infografía de la importancia de la ciberseguridad**: 
